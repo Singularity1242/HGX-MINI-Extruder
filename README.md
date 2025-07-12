@@ -1,5 +1,5 @@
 # HGX-MINI-Extruder
-rework or the popular HGX LITE Extruder.
+Rework or the popular HGX LITE Extruder.
 
 Github page building ...
 
